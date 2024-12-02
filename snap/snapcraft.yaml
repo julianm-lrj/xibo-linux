@@ -116,7 +116,7 @@ parts:
       - freeglut3
       - libzmq5
       - libboost1.70
-      - libwebkitgtk-6.0-4
+      - libgtkmm-3.0-1v5
       - libcanberra-gtk3-module
       - libwebkitgtk-6.0-4
       - libgpm2 # gstreamer warning
