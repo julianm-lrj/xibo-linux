@@ -7,7 +7,7 @@ grade: stable
 confinement: strict
 
 architectures:
-  - build-on: amd64
+  - build-on: arm64
 
 slots:
   dbus-daemon: # name this whatever you want
